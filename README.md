@@ -201,7 +201,7 @@ https://snaps.qubelabs.io/celestia/${SNAP_NAME} | tar xf - \
 ## Запустите Celestia-App с помощью SystemD
 
 SystemD - это служба-демон, полезная для запуска приложений в качестве фоновых процессов.
- 
+
 Создайте системный файл Celestia-App:
 
 ```
