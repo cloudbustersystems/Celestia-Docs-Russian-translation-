@@ -621,9 +621,9 @@ sudo systemctl start celestia-lightd
 
 ```sudo systemctl status celestia-lightd```
 
-Проверье логи демона
+Проверьте логи 
 
-Проверяйте логи демона в режиме реального времени:
+Проверяйте логи в режиме реального времени:
 
 ```sudo journalctl -u celestia-lightd.service -f```
 
